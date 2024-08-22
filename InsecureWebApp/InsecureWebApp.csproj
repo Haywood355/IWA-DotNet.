@@ -31,7 +31,7 @@
 
 
   <ItemGroup>
-    <PackageReference Include="EnumStringValues" Version="4.0.1" />
+    <PackageReference Include="EnumStringValues" Version="4.0.2" />
     <PackageReference Include="HotChocolate.AspNetCore" Version="12.13.1" />  
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.0" />
@@ -51,14 +51,14 @@
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.0" />
-    <PackageReference Include="Moment.js" Version="2.19.2" />
-    <PackageReference Include="net.sf.mpxj-for-csharp" Version="10.14.0" />
+    <PackageReference Include="Moment.js" Version="2.29.4" />
+    <PackageReference Include="net.sf.mpxj-for-csharp" Version="10.14.1" />
     <PackageReference Include="SharpZipLib" Version="1.4.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.0.7" />
     <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="6.0.0" />
     <PackageReference Include="System.ServiceModel.Primitives" Version="4.6.0" />
     <PackageReference Include="TGServiceInterface" Version="3.2.1" />
-    <PackageReference Include="TinyMCE" Version="5.10.7" />
+    <PackageReference Include="TinyMCE" Version="7.2.0" />
   </ItemGroup>
 
 </Project>
